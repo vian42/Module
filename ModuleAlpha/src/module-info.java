@@ -1,0 +1,3 @@
+module ModuleAlpha {
+    requires ModuleBeta;
+}
